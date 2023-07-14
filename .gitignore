@@ -6,3 +6,6 @@
 
 # Ignore the 'env' directory
 env/
+
+# Ignore the Jupyter checkpoints file
+.ipynb_checkpoints/
